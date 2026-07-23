@@ -1,2 +1,1 @@
-# AI_ML_bootcamp
-everything learnt during AI ML bootcamp.
+# AI ML bootcamp
